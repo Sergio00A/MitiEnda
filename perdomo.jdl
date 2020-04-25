@@ -1,0 +1,13 @@
+  
+    entity Producto {
+    nombre String
+    codigo String
+    cantida Float
+    }
+    entity Cliente {
+    nombre String
+    direccion String
+    titulo String
+    rut String
+    telefono Integer
+    }
